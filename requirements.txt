@@ -1,0 +1,8 @@
+torch
+torchvision
+PyCameraList
+opencv-contrib-python==4.5.5.64
+hidapi
+pyqtgraph
+pyside6
+scipy
